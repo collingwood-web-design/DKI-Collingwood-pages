@@ -1,0 +1,15 @@
+# DKI Collingwood
+
+> Property restoration for homes and businesses in Collingwood, Ontario and surrounding communities.
+
+The official site is https://collingwooddki.ca/. collingwooddki.com points to that address.
+
+## Pages
+
+- https://collingwooddki.ca/
+- https://collingwooddki.ca/services/water-flood-damage
+- https://collingwooddki.ca/services/fire-smoke-damage
+- https://collingwooddki.ca/services/storm-impact-damage
+- https://collingwooddki.ca/services/contents-restoration
+- https://collingwooddki.ca/services/asbestos-mould
+- https://collingwooddki.ca/services/commercial-services
