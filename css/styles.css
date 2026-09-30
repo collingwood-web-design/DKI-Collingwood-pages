@@ -77,6 +77,10 @@ img {
   color: #ff5a66;
 }
 
+.navlinks a.btn-claim:hover {
+  color: #000;
+}
+
 .btn {
   display: inline-block;
   background: var(--red);
