@@ -275,6 +275,11 @@ h3 {
   max-width: 850px;
 }
 
+.contact-box p,
+.contact-box a {
+  overflow-wrap: anywhere;
+}
+
 .contact-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -288,6 +293,19 @@ h3 {
   margin-top: 22px;
 }
 
+.map {
+  margin-top: 28px;
+  max-width: 850px;
+  background: #fff;
+}
+
+.map iframe {
+  display: block;
+  width: 100%;
+  height: 450px;
+  border: 0;
+}
+
 .footer {
   background: #090909;
   color: #ccc;
@@ -298,8 +316,12 @@ h3 {
   max-width: var(--max);
   margin: auto;
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-columns: 1.3fr 1fr 0.8fr 1.5fr;
   gap: 40px;
+}
+
+.footer a {
+  overflow-wrap: anywhere;
 }
 
 .footer a:hover {
@@ -351,6 +373,10 @@ h3 {
 
   .hero {
     min-height: 520px;
+  }
+
+  .map iframe {
+    height: 320px;
   }
 
   .photo {
