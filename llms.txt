@@ -1,15 +1,76 @@
 # DKI Collingwood
 
-> Property restoration for homes and businesses in Collingwood, Ontario and surrounding communities.
+> Property damage restoration for homes and businesses in Collingwood, Ontario and surrounding communities: water and flood damage, fire and smoke damage, storm and impact damage, contents restoration, asbestos and mould, and commercial restoration.
 
-The official site is https://collingwooddki.ca/. collingwooddki.com points to that address.
+Site: https://collingwooddki.ca/
+Phone: +1-705-467-0842
+Email: Info@collingwood.dki.ca
+Address: 5-10 Greco Court, Collingwood, ON L9Y 4L2, Canada
+Map: https://www.google.com/maps?cid=7426810729406431843
+Service area: Collingwood, Ontario and surrounding communities
+
+The official site is https://collingwooddki.ca/. collingwooddki.com redirects to that address.
 
 ## Pages
 
-- https://collingwooddki.ca/
-- https://collingwooddki.ca/services/water-flood-damage
-- https://collingwooddki.ca/services/fire-smoke-damage
-- https://collingwooddki.ca/services/storm-impact-damage
-- https://collingwooddki.ca/services/contents-restoration
-- https://collingwooddki.ca/services/asbestos-mould
-- https://collingwooddki.ca/services/commercial-services
+- Home (overview, services, about, process, contact): https://collingwooddki.ca/
+- Water & Flood Damage: https://collingwooddki.ca/services/water-flood-damage
+- Fire & Smoke Damage: https://collingwooddki.ca/services/fire-smoke-damage
+- Storm & Impact Damage: https://collingwooddki.ca/services/storm-impact-damage
+- Contents Restoration: https://collingwooddki.ca/services/contents-restoration
+- Asbestos & Mould: https://collingwooddki.ca/services/asbestos-mould
+- Commercial Services: https://collingwooddki.ca/services/commercial-services
+
+## About
+
+DKI Collingwood is a local property restoration business with a simple focus: looking after properties and the people who rely on them. The approach starts with listening, explaining the work ahead and keeping the property owner informed. Serving Collingwood and surrounding communities, the team works with homeowners, businesses, insurance professionals and industry partners to move restoration work forward efficiently.
+
+Slogan: Property restoration. Local commitment.
+
+## Services
+
+- Water & Flood Damage: water removal, structural drying and repairs after flooding, burst pipes, appliance failures or unexpected leaks. Work typically begins by identifying affected areas, addressing standing water where applicable, documenting moisture conditions and developing a drying and repair plan.
+- Fire & Smoke Damage: cleanup and restoration planning for damage caused by fire, soot, smoke, odour and water used during firefighting. Planning considers the building, finishes and contents.
+- Storm & Impact Damage: assessment and repairs after severe weather, wind, fallen trees and other sudden impacts affecting roofs, exterior walls, windows and interior areas, including temporary protection and permanent repairs.
+- Contents Restoration: assessment, cleaning and recovery planning for furniture, personal belongings, inventory and equipment affected by water, smoke or other damage. Items can be assessed for cleaning, specialized treatment, storage or replacement.
+- Asbestos & Mould: assessment and remediation planning for mould growth and suspect hazardous materials where specialized handling may be required, using appropriate safety and containment procedures.
+- Commercial Services: restoration planning for offices, retail spaces, industrial properties and other commercial facilities, considering business continuity, site access, tenants, operating hours and coordination with multiple stakeholders.
+
+## How to get help
+
+1. Get in touch: call 705-467-0842 or email Info@collingwood.dki.ca. Say what happened, where the property is and which areas have been affected.
+2. Understand the plan: review the assessment, proposed scope and next steps for the property.
+3. Move forward: work through the agreed restoration plan with clear communication along the way.
+
+Emergency: if there is an immediate threat to life or safety, call 911 or the appropriate emergency service first.
+
+## Frequently asked questions
+
+Q: What does DKI Collingwood do?
+A: DKI Collingwood provides property restoration for homes and businesses in Collingwood, Ontario and surrounding communities, including water, fire, smoke, storm, mould and contents restoration, and commercial restoration.
+
+Q: Where is DKI Collingwood located?
+A: 5-10 Greco Court, Collingwood, Ontario L9Y 4L2.
+
+Q: How do I report a claim or get help with property damage in Collingwood?
+A: Call 705-467-0842 or email Info@collingwood.dki.ca. Share what happened, where the property is and which areas have been affected.
+
+Q: Does DKI Collingwood work with insurance professionals?
+A: Yes. The team works with homeowners, businesses, insurance professionals and industry partners to move restoration work forward efficiently.
+
+Q: What causes of water damage does DKI Collingwood handle?
+A: Flooding, burst pipes, appliance failures and unexpected leaks, with water removal, structural drying and repairs.
+
+Q: Does DKI Collingwood restore commercial properties?
+A: Yes. Offices, retail spaces, industrial properties and other commercial facilities, with planning around business continuity, tenants and operating hours.
+
+Q: Should I disturb suspected mould or asbestos myself?
+A: No. Mould and suspect hazardous materials require careful assessment before disturbance. Where specialized testing or remediation is needed, the work should be planned using appropriate safety and containment procedures.
+
+Q: What should I do first in an emergency?
+A: If there is an immediate threat to life or safety, call 911 or the appropriate emergency service first, then contact DKI Collingwood.
+
+## Optional
+
+- Sitemap: https://collingwooddki.ca/sitemap.xml
+- Robots: https://collingwooddki.ca/robots.txt
