@@ -280,6 +280,13 @@ h3 {
   overflow-wrap: anywhere;
 }
 
+.contact-box a {
+  color: var(--red);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
 .contact-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
