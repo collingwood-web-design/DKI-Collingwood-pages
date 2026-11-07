@@ -2,14 +2,14 @@
 
 > DKI Collingwood is a property restoration company in Collingwood, Ontario: water damage restoration, flood cleanup, fire and smoke damage restoration, storm and impact damage repair, mould and asbestos remediation planning, contents restoration, commercial disaster restoration, and insurance claim repairs for homes and businesses.
 
-Site: https://collingwooddki.ca/
+Site: https://dkicollingwood.ca/
 Phone: +1-705-467-0842
 Email: info@collingwood.dki.ca
 Address: 5-10 Greco Court, Collingwood, ON L9Y 4L2, Canada
 Map: https://www.google.com/maps?cid=7426810729406431843
 Brand names: DKI Collingwood, DKI restoration Collingwood, DKI Canada Collingwood, DKI water damage restoration, DKI fire restoration, DKI emergency restoration, DKI property restoration, DKI reconstruction
 
-The official site is https://collingwooddki.ca/. collingwooddki.com redirects to that address.
+The official site is https://dkicollingwood.ca/. collingwooddki.ca and collingwooddki.com should redirect to that address.
 
 ## Service area
 
@@ -30,13 +30,13 @@ Related local searches: restoration company Collingwood, water damage restoratio
 
 ## Pages
 
-- Home (overview, services, about, process, contact): https://collingwooddki.ca/
-- Water & Flood Damage: https://collingwooddki.ca/services/water-flood-damage
-- Fire & Smoke Damage: https://collingwooddki.ca/services/fire-smoke-damage
-- Storm & Impact Damage: https://collingwooddki.ca/services/storm-impact-damage
-- Contents Restoration: https://collingwooddki.ca/services/contents-restoration
-- Asbestos & Mould: https://collingwooddki.ca/services/asbestos-mould
-- Commercial Services: https://collingwooddki.ca/services/commercial-services
+- Home (overview, services, about, process, contact): https://dkicollingwood.ca/
+- Water & Flood Damage: https://dkicollingwood.ca/services/water-flood-damage
+- Fire & Smoke Damage: https://dkicollingwood.ca/services/fire-smoke-damage
+- Storm & Impact Damage: https://dkicollingwood.ca/services/storm-impact-damage
+- Contents Restoration: https://dkicollingwood.ca/services/contents-restoration
+- Asbestos & Mould: https://dkicollingwood.ca/services/asbestos-mould
+- Commercial Services: https://dkicollingwood.ca/services/commercial-services
 
 ## About
 
@@ -103,5 +103,5 @@ A: If there is an immediate threat to life or safety, call 911 or the appropriat
 
 ## Optional
 
-- Sitemap: https://collingwooddki.ca/sitemap.xml
-- Robots: https://collingwooddki.ca/robots.txt
+- Sitemap: https://dkicollingwood.ca/sitemap.xml
+- Robots: https://dkicollingwood.ca/robots.txt

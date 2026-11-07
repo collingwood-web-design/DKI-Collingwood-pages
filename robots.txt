@@ -1,4 +1,4 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://collingwooddki.ca/sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://dkicollingwood.ca/sitemap.xml
